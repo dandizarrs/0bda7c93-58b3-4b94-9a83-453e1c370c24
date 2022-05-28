@@ -4334,6 +4334,9 @@
 1653616885.357061s 1 https://api.dandiarchive.org/api/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24.zarr/2/0/0/3/3/0
 1653616886.999531s 1 https://api.dandiarchive.org/api/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24.zarr/2/0/0/3/3/1
 1653616892.781927s 1 https://api.dandiarchive.org/api/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24.zarr/2/0/0/3/3/2
+1653712528.175135s 1 https://api.dandiarchive.org/api/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24.zarr/3/0/0/0/1/15
+1653712677.775658s 1 https://api.dandiarchive.org/api/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24.zarr/3/0/0/1/0/0
+1653712691.928314s 1 https://api.dandiarchive.org/api/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24.zarr/3/0/0/1/1/0
 1653505999.82791s 1 https://dandiarchive.s3.amazonaws.com/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24/0/0/0/0/0/113?versionId=F9e2Psp0uJwVFVHeIJ4DtYoKxGWs_azk
 1653506000.736732s 1 https://dandiarchive.s3.amazonaws.com/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24/0/0/0/0/0/114?versionId=bF2dcqfaYVfKq9_XC87ws7.pcXdueDAF
 1653506001.775436s 1 https://dandiarchive.s3.amazonaws.com/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24/0/0/0/0/0/115?versionId=BWhbuXqTb4pqTg5qvWU2uNbCkc1Pz_Le
@@ -8671,3 +8674,6 @@
 1653616886.563644s 1 https://dandiarchive.s3.amazonaws.com/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24/2/0/0/3/3/1?versionId=b0TcDIiyDudQbkyvAAVDV8iKx1zgcLog
 1653616892.23362s 1 https://dandiarchive.s3.amazonaws.com/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24/2/0/0/3/3/2?versionId=CrI7COdfDBBjPnp6aFaJ2ymizGsVE1Bz
 1653616905.704644s 1 https://dandiarchive.s3.amazonaws.com/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24/3/0/0/0/0/15?versionId=_L0E.nAk8Ug9v.K5BeGYou1844JhgTiU
+1653712523.462222s 1 https://dandiarchive.s3.amazonaws.com/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24/3/0/0/0/1/15?versionId=u5XhYZXrMPmsFmmYDADY1dDaHCwCJmGR
+1653712677.519856s 1 https://dandiarchive.s3.amazonaws.com/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24/3/0/0/1/0/0?versionId=MlInHbScCB7.pZgniqnHa5jU6gn.VWjW
+1653712691.49805s 1 https://dandiarchive.s3.amazonaws.com/zarr/0bda7c93-58b3-4b94-9a83-453e1c370c24/3/0/0/1/1/0?versionId=jDMVMoOOiZCXDzHmANH7p7gVSw5e.ZJ.
